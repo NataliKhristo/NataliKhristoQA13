@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sundbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sundbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sundbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sundbox_main.iml" group="sundbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sundbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sundbox_test.iml" group="sundbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trelloSeleniumProject.iml" filepath="$PROJECT_DIR$/.idea/modules/trelloSeleniumProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trelloSeleniumProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trelloSeleniumProject_main.iml" group="trelloSeleniumProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trelloSeleniumProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/trelloSeleniumProject_test.iml" group="trelloSeleniumProject" />
     </modules>
   </component>
 </project>
